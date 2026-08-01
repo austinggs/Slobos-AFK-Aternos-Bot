@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "unitedstatesofmc.aternos.me",
+    "ip": "usmc.aternos.me",
     "port": 41370,
     "version": "",
     "try-creative": false
