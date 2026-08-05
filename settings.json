@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "usmc.aternos.me",
-    "port": 41370,
+    "ip": "souldansmp.minefort.com",
+    "port": 25565,
     "version": "1.21.1",
     "try-creative": false
   },
